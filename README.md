@@ -12,9 +12,9 @@ For feature extraction, we have three components: emotion analysis, personality 
 # Dataset Description
 
 we used four datasets. 
-1) The Flickr Style dataset[45] for recognizing image style. The original dataset consisted of 80,000 images with style labels, and was classified into 20 labels. We could not collect all the images because some were unlinked from Flickr. In this study, 15 style labels are used, and we have 2900 images for each style
-2) The data set introduced in [33] was utilized for emotion detection in images. It encompasses eight emotions, which include amusement, anger, awe, contentment, disgust, excitement, fear, and sadness. The version of the dataset we used contains fewer images than the original due to some images being lost. 
-3) PsychoFlickr dataset is used for personality analysis [38]. A collection of 60,000 images tagged as favorites by 300 Pro Flickr users (200 randomly selected favorites per user). 
+1) The Flickr Style dataset[4] for recognizing image style. The original dataset consisted of 80,000 images with style labels, and was classified into 20 labels. We could not collect all the images because some were unlinked from Flickr. In this study, 15 style labels are used, and we have 2900 images for each style
+2) The data set introduced in [2] was utilized for emotion detection in images. It encompasses eight emotions, which include amusement, anger, awe, contentment, disgust, excitement, fear, and sadness. The version of the dataset we used contains fewer images than the original due to some images being lost. 
+3) PsychoFlickr dataset is used for personality analysis [3]. A collection of 60,000 images tagged as favorites by 300 Pro Flickr users (200 randomly selected favorites per user). 
 4) To evaluate image recommendation, we employ part of the dataset used in  [1]. We consider a collection of 4000 images belonging to 20 users from Flickr. For each user, there are 200 images tagged as favorites. 
 
 You can download the desired dataset from its original reference or access the used data through the links added in the README file.
