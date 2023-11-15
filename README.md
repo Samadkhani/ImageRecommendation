@@ -28,10 +28,16 @@ Emotion_DataSet: https://drive.google.com/drive/folders/1jFcjXkudaiKBY6pGGTZoU0X
 
 
 
-## How to Cite
+# How to Cite
 
 If you use this work in your research, please cite it as follows:
 
 Somaye Ahmadkhani, Mohsen Ebrahimi Moghaddam. (2023). A social image recommendation system based on deep reinforcement learning. Available from https: https://github.com/Samadkhani/ImageRecommendation/blob/main/README.md
 
 
+# References
+
+1.	Lovato, P., et al., Faved! biometrics: Tell me which image you like and I'll tell you who you are. IEEE Transactions on Information Forensics and Security, 2014. 9(3): p. 364-374.
+33.	You, Q., et al. Building a large scale dataset for image emotion recognition: The fine print and the benchmark. in Proceedings of the AAAI conference on artificial intelligence. 2016.
+38. Segalin, C., D.S. Cheng, and M. Cristani, Social profiling through image understanding: Personality inference using convolutional neural networks. Computer Vision and Image Understanding, 2017. 156: p. 34-50.
+45.	Karayev, S., et al., Recognizing image style. arXiv preprint arXiv:1311.3715, 2013.
