@@ -32,6 +32,6 @@ Emotion_DataSet: https://drive.google.com/drive/folders/1jFcjXkudaiKBY6pGGTZoU0X
 
 If you use this work in your research, please cite it as follows:
 
-Somaye Ahmadkhani, Mohsen Ebrahimi Moghaddam. (2023). A social image recommendation system based on deep reinforcement learning. Available from https:
+Somaye Ahmadkhani, Mohsen Ebrahimi Moghaddam. (2023). A social image recommendation system based on deep reinforcement learning. Available from https: https://github.com/Samadkhani/ImageRecommendation/blob/main/README.md
 
 
