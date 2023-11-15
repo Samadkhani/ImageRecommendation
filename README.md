@@ -32,6 +32,6 @@ Emotion_DataSet: https://drive.google.com/drive/folders/1jFcjXkudaiKBY6pGGTZoU0X
 
 If you use this work in your research, please cite it as follows:
 
-Your Last Name, Your First Name. (2023). Your Project Title (Version 1.0.0) [Software]. Available from https://github.com/yourusername/yourrepository. DOI: xxxxxxx
+Somaye Ahmadkhani, Mohsen Ebrahimi Moghaddam. (2023). A social image recommendation system based on deep reinforcement learning. Available from https:
 
-For more details, see the CITATION.cff file in this repository.
+
