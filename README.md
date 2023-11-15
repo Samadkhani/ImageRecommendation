@@ -25,3 +25,13 @@ Images of users used for recommendations : https://drive.google.com/drive/folder
 
 PsychoFlickr_DataSet: https://docs.google.com/spreadsheets/d/19QsXk87LJPEmuiubMAjlm1k3EsXWG6-i/edit?usp=sharing&ouid=101202414552093252061&rtpof=true&sd=true
 Emotion_DataSet: https://drive.google.com/drive/folders/1jFcjXkudaiKBY6pGGTZoU0XK_e1e3OgD?usp=sharing
+
+
+
+## How to Cite
+
+If you use this work in your research, please cite it as follows:
+
+Your Last Name, Your First Name. (2023). Your Project Title (Version 1.0.0) [Software]. Available from https://github.com/yourusername/yourrepository. DOI: xxxxxxx
+
+For more details, see the CITATION.cff file in this repository.
